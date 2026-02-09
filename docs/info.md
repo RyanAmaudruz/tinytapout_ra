@@ -9,13 +9,9 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-
 This project shows a star that goes inwards. Play around with it.
 
 ## How to test
-
-Explain how to use your project
 
 You can test the project by running the test.py file.
 
